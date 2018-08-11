@@ -14,6 +14,8 @@ class CashRegister
     self.total += (price * quantity)
   end
   
+  
+  
 end
 binding.pry
 puts "goodbye"
