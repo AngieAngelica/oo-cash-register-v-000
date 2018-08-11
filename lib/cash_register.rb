@@ -1,5 +1,3 @@
-require 'pry'
-
 class CashRegister
   
   attr_accessor :total, :discount, :item, :price, :quantity
@@ -24,5 +22,3 @@ class CashRegister
   end
   
 end
-binding.pry
-puts "goodbye"
