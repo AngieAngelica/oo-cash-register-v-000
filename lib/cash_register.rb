@@ -15,3 +15,5 @@ class CashRegister
   end
   
 end
+binding.pry
+puts "goodbye"
